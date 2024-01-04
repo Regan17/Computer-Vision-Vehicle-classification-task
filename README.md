@@ -35,21 +35,21 @@ Support Vector Machine (SVM):
 
 Choice of Models:
 
-Naive Bayes and Random Forest are classical models suitable for text classification tasks.
-
-Bidirectional LSTM captures sequential dependencies in the text data.
-
-XGBoost is a robust gradient boosting algorithm often effective in diverse scenarios.
-
-Dense Neural Network and Support Vector Machine offer alternatives with different feature extraction approaches.
+        Naive Bayes and Random Forest are classical models suitable for text classification tasks.
+        
+        Bidirectional LSTM captures sequential dependencies in the text data.
+        
+        XGBoost is a robust gradient boosting algorithm often effective in diverse scenarios.
+        
+        Dense Neural Network and Support Vector Machine offer alternatives with different feature extraction approaches.
 
 Preprocessing:
 
-Text data is tokenized and padded for consistent input size.
-
-GloVe embeddings enhance the model's understanding of word semantics.
-
-Label encoding ensures numerical representation of sentiment labels.
+        Text data is tokenized and padded for consistent input size.
+        
+        GloVe embeddings enhance the model's understanding of word semantics.
+        
+        Label encoding ensures numerical representation of sentiment labels.
 
 Evaluation Metrics:
 
