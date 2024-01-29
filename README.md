@@ -1,4 +1,4 @@
-# Computer-Vision-Vehicle-classification-task
+# Sentiment analysis
 
 Summary of Results:
 
